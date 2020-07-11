@@ -5,10 +5,12 @@ Hello, World! I am a student living in Gyeonggi-do, South Korea. I am a develope
 - 🔭 I’m currently working on School.
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on [lostarkbot](https://github.com/lostarkdiscord)
-- 🤔 I’m looking for help with Apache2 Vhost(Why doesn't it work only on my server machine!!!)
+- 🤔 I’m looking for help with Apache2 Vhost(Why doesn't it work only on my server!!!)
 - 📫 How to reach me: [yoru@outlook.kr](mailto:yoru@outlook.kr)
-- 😄 Pronouns: Yoru or Yoruroong, and I am sometimes called a runt(I'm not short!!) or a idiot.
+- 😄 Pronouns: Yoru or Yoruroong, and I am sometimes called a runt(I'm not short!!).
 - ⚡ Fun fact: ~~I want the destruction of the earth~~
 
 Sadly, I don't have enough money to buy Macbook, So i want to get a donation(If you have enough money, please buy me a coffee)
 <a href="https://www.buymeacoffee.com/yoru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 27px !important;width: 100px !important;" ></a>
+
+Also, You can see my information in korean [here](https://yoru.ml) 
