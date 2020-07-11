@@ -11,4 +11,4 @@ Hello, World! I am a student living in Gyeonggi-do, Korea. I am a developer usin
 - ⚡ Fun fact: ~~I want the destruction of the earth~~
 
 Sadly, I don't have enough money to buy Macbook, So i want to get a donation(If you have enough money, please buy me a coffee)
-<a href="https://www.buymeacoffee.com/yoru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 39px !important;width: 150px !important;" ></a>
+<a href="https://www.buymeacoffee.com/yoru" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 27px !important;width: 100px !important;" ></a>
