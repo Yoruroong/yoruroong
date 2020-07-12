@@ -5,7 +5,7 @@ Hello, World! I am a student living in Gyeonggi-do, South Korea. I am a develope
 - 🔭 I’m currently working on School.
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on [lostarkbot](https://github.com/lostarkdiscord)
-- 🤔 I’m looking for help with Apache2 Vhost(Why doesn't it work only on my server!!!)
+- 🤔 I’m looking for help with Apache2 Vhost and install Let's Encrypt SSL on Apache2.
 - 📫 How to reach me: [yoru@outlook.kr](mailto:yoru@outlook.kr) . Of course, you can contact me through Discord(Yoru#0002), but i don't recive friend request.
 - 😄 Pronouns: Yoru or Yoruroong, and I am sometimes called a runt(I'm not short!!).
 - ⚡ Fun fact: ~~I want the destruction of the earth~~
