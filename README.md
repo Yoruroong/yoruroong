@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, World! I am a student living in Gyeonggi-do, South Korea. I am a developer using Node.js, HTML and CSS. Sometimes I use the snake language, Python. I usually use node.js to develop, sometimes i use Python when i have to crawl web. 
+Bye, World! I am a student living in Gyeonggi-do, South Korea. I am a developer using Node.js, HTML and CSS. Sometimes I use the snake language, Python. I usually use node.js to develop, sometimes i use Python when i have to crawl web. 
 
 - 🔭 I’m currently working on School.
 - 🌱 I’m currently learning React.js
