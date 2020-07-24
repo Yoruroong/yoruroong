@@ -11,3 +11,5 @@ Bye, World! I am a student living in Gyeonggi-do, South Korea. I am a developer 
 - ⚡ Fun fact: ~~I want the destruction of the earth~~
 
 Sadly, I don't have enough money to buy Macbook, So i want to get a donation(If you have enough money, please buy me a coffee [here](https://www.buymeacoffee.com/yoru))
+
+[![wonderlandpark's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true)](https://github.com/Yoruroong)
