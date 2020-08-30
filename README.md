@@ -3,10 +3,10 @@
 Bye, World! I am a semi full-stack developer and student. I am using React, Mysql(MariaDB), express, Node.js, Python.
 
 - 🔭 I’m currently working on School.
-- 🌱 I’m currently learning React.js, Next.js
-- 👯 I’m looking to collaborate on X
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on :thinking:
 - 🤔 I’m looking for help with next.js
-- 📫 How to reach me: [yoru@outlook.kr](mailto:yoru@outlook.kr) . Of course, you can contact me through Discord(Yoru#0002), but i don't recive friend request.
+- 📫 How to reach me: [yoru@outlook.kr](mailto:yoru@outlook.kr)
 - 😄 Pronouns: Yoru or Yoruroong
 - ⚡ Fun fact: I want the destruction of the earth
 
