@@ -1,12 +1,11 @@
 ### Hi there 👋
-
-Bye, World! I am a semi full-stack developer and student. I am using React, Mysql(MariaDB), express, Node.js, Python.
-
-- 🔭 I’m currently working on School.
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on :thinking:
-- 🤔 I’m looking for help with next.js
+🌱 Web Development i can use:
+- HTML
+- CSS
+- PHP
+- Framework: React, Vue.js
 - 📫 How to reach me: [yoru@outlook.kr](mailto:yoru@outlook.kr)
+- 🕤
 - 😄 Pronouns: Yoru or Yoruroong
 - ⚡ Fun fact: I want the destruction of the earth
 
