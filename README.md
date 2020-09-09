@@ -9,7 +9,12 @@
 - [yoru@outlook.kr](mailto:yoru@outlook.kr)
 - [Yoru#0002](https://discord.com)
 
-🕤
+🕤 Fast Answers:
+```
+[ ] Morning   [x] PC       [x] Messenger
+[x] Evening   [ ] Mobile   [ ] Discord
+[ ] Midnight  [ ] Offline  [ ] Text Message
+```
 
 😄 Pronouns: Yoru or Yoruroong
 
