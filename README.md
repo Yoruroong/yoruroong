@@ -1,13 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 🌱 Web Development i can use:
 - HTML
 - CSS
 - PHP
 - Framework: React, Vue.js
-- 📫 How to reach me: [yoru@outlook.kr](mailto:yoru@outlook.kr)
-- 🕤
-- 😄 Pronouns: Yoru or Yoruroong
-- ⚡ Fun fact: I want the destruction of the earth
+📫 How to reach me: 
+- [yoru@outlook.kr](mailto:yoru@outlook.kr)
+- [Yoru#0002](https://discord.com)
+🕤
+😄 Pronouns: Yoru or Yoruroong
 
 [Click here](https://www.buymeacoffee.com/yoru)
 
