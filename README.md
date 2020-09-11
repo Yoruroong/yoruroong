@@ -11,12 +11,14 @@
 
 🕤 Fast Answers:
 ```
-[ ] Morning   [x] PC       [x] Messenger
-[x] Evening   [ ] Mobile   [ ] Discord
-[ ] Midnight  [ ] Offline  [ ] Text Message
+[ ] Morning   [x] PC       [x] Messenger     [x] Home
+[x] Evening   [ ] Mobile   [ ] Discord       [ ] School
+[ ] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor
 ```
 
-😄 Pronouns: Yoru or Yoruroong
+😄 Pronouns: 
+- Yoru
+- Yoruroong
 
 [Click here](https://www.buymeacoffee.com/yoru)
 
