@@ -3,6 +3,7 @@
 - HTML
 - CSS
 - PHP
+- express.js
 - Framework: React, Vue.js
 
 📫 How to reach me: 
@@ -11,9 +12,9 @@
 
 🕤 Fast Answers:
 ```
-[ ] Morning   [x] PC       [x] Messenger     [x] Home
-[x] Evening   [ ] Mobile   [ ] Discord       [ ] School
-[ ] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor
+[ ] Morning   [x] PC       [x] Messenger     [x] Home     [ ] Sun
+[x] Evening   [ ] Mobile   [ ] Discord       [ ] School   [x] Rain
+[ ] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor  [ ] Cloud
 ```
 
 😄 Pronouns: 
