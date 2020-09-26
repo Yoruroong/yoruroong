@@ -8,7 +8,7 @@
 
 📫 How to reach me: 
 - [yoru@outlook.kr](mailto:yoru@outlook.kr)
-- [Yoru#0002](https://discord.com)
+- [Yoru#0002](https://discord.com)  2123
 
 🕤 Fast Answers:
 ```
