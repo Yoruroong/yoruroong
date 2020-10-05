@@ -4,6 +4,7 @@
 - CSS
 - PHP
 - express.js
+- Flask
 - Framework: React, Vue.js
 
 📫 How to reach me: 
