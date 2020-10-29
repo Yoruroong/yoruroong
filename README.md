@@ -14,9 +14,9 @@
 
 🕤 Fast Answers:
 ```
-[ ] Morning   [x] PC       [x] Messenger     [x] Home     [ ] Sun
-[x] Evening   [ ] Mobile   [ ] Discord       [ ] School   [x] Rain
-[ ] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor  [ ] Cloud
+[ ] Morning   [x] PC       [x] Messenger     [x] Home     [ ] Sun    [ ] Vacation
+[x] Evening   [ ] Mobile   [ ] Discord       [ ] School   [x] Rain   [ ] Weekend
+[ ] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor  [ ] Cloud  [x] Weekday
 ```
 
 😄 Pronouns: 
