@@ -22,6 +22,7 @@
 😄 Pronouns: 
 - Yoru
 - Yoruroong
+- 서산
 
 [Hello](https://www.buymeacoffee.com/yoru)
 
