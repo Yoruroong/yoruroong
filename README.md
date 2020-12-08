@@ -3,8 +3,8 @@
 - HTML
 - CSS
 - PHP
-- express.js
-- Flask
+- JS
+- Flask, express
 - Framework: React, Vue.js
 
 📫 How to reach me: 
@@ -18,13 +18,6 @@
 [ ] Evening   [ ] Mobile   [ ] Discord       [ ] School   [x] Rain   [ ] Weekend
 [x] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor  [ ] Cloud  [x] Weekday
 ```
-
-😄 Pronouns: 
-- Yoru
-- Yoruroong
-- 서산
-
-[Hello](https://www.buymeacoffee.com/yoru)
 
 [![Yoru's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yoruroong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Yoruroong)
