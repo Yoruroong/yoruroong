@@ -7,10 +7,14 @@
 - Flask, express
 - Framework: React, Vue.js
 
+❤ In a word:
+I'm Semi Full Stack developer.
+
 📫 How to reach me: 
 - [yoru@outlook.kr](mailto:yoru@outlook.kr)
 - [Yoru#0002](https://discord.com)
 - [@Yoruroong](https://t.me/Yoruroong)
+
 
 🕤 Fast Answers:
 ```
