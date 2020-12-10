@@ -7,6 +7,16 @@
 - Flask, express
 - Framework: React, Vue.js
 
+💨 I'm currently interested in
+```
+- TensorFlow
+- C++
+- React JS
+- Javascript
+- Arduino/Raspberry pi
+- python ❤🧡💛💚💙💜🤎🖤
+```
+
 ❤ In a word:
 I'm Semi Full Stack developer.
 
