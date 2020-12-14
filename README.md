@@ -14,7 +14,7 @@
 - React JS
 - Javascript
 - Arduino/Raspberry pi
-- python ❤🧡💛💚💙💜🤎🖤
+- Go
 ```
 
 ❤ In a word:
