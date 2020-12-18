@@ -1,11 +1,11 @@
 ## Hi there 👋
-🌱 Web Development i can use:
-- HTML
-- CSS
+🌱 Stack:
 - PHP
-- JS
-- Flask, express
-- Framework: React, Vue.js
+- JS(include node.js)
+- Flask
+- express.js
+- React
+- Vue.js
 
 💨 I'm currently interested in
 ```
@@ -16,9 +16,6 @@
 - Arduino/Raspberry pi
 - Go
 ```
-
-❤ In a word:
-I'm Semi Full Stack developer.
 
 📫 How to reach me: 
 - [yoru@outlook.kr](mailto:yoru@outlook.kr)
