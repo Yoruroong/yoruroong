@@ -1,4 +1,4 @@
-name: Profile
+name: CI publish
  
 on:
   push:
