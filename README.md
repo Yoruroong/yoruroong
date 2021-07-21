@@ -1,34 +1,51 @@
 ## Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=yoruroong&label=Profile%20views&color=0e75b6&style=flat" alt="yoruroong" />
+
 🌱 Stack:
-- PHP
 - JS(include node.js)
 - Flask
 - express.js
 - React
-- Vue.js
 
-💨 I'm currently interested in
+💨 I'm currently interested(studying) in
 ```
 - TensorFlow
-- C++
-- React JS
+- PHP
+- React 
 - Javascript
 - Arduino/Raspberry pi
 - Go
 ```
 
 📫 How to reach me: 
-- [yoru@outlook.kr](mailto:yoru@outlook.kr)
-- [욜우#3179](https://discord.com)
-- [@elin_yw](https://t.me/elin_yw)
-
+<ul>
+  <li>
+    <a href="https://discord.yoru.pe.kr">
+      <img src="https://img.shields.io/badge/-Click-7289da?logo=Discord&logoColor=white&link=https://discord.com" />
+    </a>
+  </li>
+  <li>etc: check at <a href="https://bio.yoru.pe.kr">here</a></li><br/>
+</ul>
 
 🕤 Fast Answers:
 ```
-[ ] Morning   [x] PC       [x] Messenger     [x] Home     [ ] Sun    [x] Vacation
-[ ] Evening   [ ] Mobile   [ ] Discord       [ ] School   [x] Rain   [ ] Weekend
-[x] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor  [ ] Cloud  [ ] Weekday
+[ ] Morning   [ ] PC       [x] Messenger     [x] Home     [ ] Sun    [ ] Vacation
+[ ] Evening   [x] Mobile   [ ] Discord       [ ] School   [x] Rain   [ ] Weekend
+[x] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor  [ ] Cloud  [x] Weekday
+```
+
+🎨 Activities:
+```
+⬆️ Pushed 1 commit to Yoruroong/yoruroong
+⬆️ Pushed 2 commits to Yoruroong/yoruroong
+⬆️ Pushed 1 commit to Yoruroong/yoruroong
 ```
 
 [![Yoru's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yoruroong)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Yoruroong)
+
+# 
+<p align="center">
+  Last refresh: 
+  <b>2021-07-21T05:59:10Z</b>
+</p>
