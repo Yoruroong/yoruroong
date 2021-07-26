@@ -1,19 +1,23 @@
-## Hi there 👋
+# Hi there 👋
+🤔 I am back-end developer dreaming of the end of the earth.
+##
+
+
 <img src="https://komarev.com/ghpvc/?username=yoruroong&label=Profile%20views&color=0e75b6&style=flat" alt="yoruroong" />
 
 🌱 Stack:
 - JS(include node.js)
-- Flask
 - express.js
 - React
 
 💨 I'm currently interested(studying) in
 ```
+- Python
+- Flask
 - TensorFlow
 - PHP
 - React 
 - Javascript
-- Arduino/Raspberry pi
 - Go
 ```
 
@@ -37,8 +41,8 @@
 🎨 Activities:
 ```
 ⬆️ Pushed 1 commit to Yoruroong/yoruroong
-⬆️ Pushed 2 commits to Yoruroong/yoruroong
 ⬆️ Pushed 1 commit to Yoruroong/yoruroong
+⬆️ Pushed 2 commits to Yoruroong/yoruroong
 ```
 
 [![Yoru's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yoruroong)
@@ -47,5 +51,5 @@
 # 
 <p align="center">
   Last refresh: 
-  <b>2021-07-25T05:09:39Z</b>
+  <b>2021-07-26T02:19:15Z</b>
 </p>
