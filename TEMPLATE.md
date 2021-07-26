@@ -1,19 +1,23 @@
-## Hi there 👋
+# Hi there 👋
+🤔 I am back-end developer dreaming of the end of the earth.
+##
+
+
 <img src="https://komarev.com/ghpvc/?username=yoruroong&label=Profile%20views&color=0e75b6&style=flat" alt="yoruroong" />
 
 🌱 Stack:
 - JS(include node.js)
-- Flask
 - express.js
 - React
 
 💨 I'm currently interested(studying) in
 ```
+- Python
+- Flask
 - TensorFlow
 - PHP
 - React 
 - Javascript
-- Arduino/Raspberry pi
 - Go
 ```
 
