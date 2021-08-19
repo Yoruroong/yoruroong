@@ -9,7 +9,7 @@ Semi Full-Stack developer dreaming of the end of the earth.
 - React (1.5y)
 
 💨 Also, I am studying:
-- <samp>Python</samp></samp>
+- <samp>Python</samp>
 - <samp>TensorFlow</samp>
 - <samp>PHP</samp>
 - <samp>Go</samp>
