@@ -1,8 +1,5 @@
-# Hi there 👋
-
-## 🤔 <samp>Yeonwoo Seo</samp>
+# 👋 <samp>Yeonwoo Seo</samp>
 Semi Full-Stack developer dreaming of the end of the earth.
-##
 
 <img src="https://komarev.com/ghpvc/?username=yoruroong&label=Profile%20views&color=0e75b6&style=flat" alt="yoruroong" />
 
@@ -38,7 +35,7 @@ Semi Full-Stack developer dreaming of the end of the earth.
 ```
 ⬆️ Pushed 1 commit to Yoruroong/yoruroong
 ⬆️ Pushed 1 commit to Yoruroong/yoruroong
-⬆️ Pushed 1 commit to callistoteam/parkbot
+⬆️ Pushed 1 commit to Yoruroong/yoruroong
 ```
 
 [![Yoru's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yoruroong)
@@ -47,5 +44,5 @@ Semi Full-Stack developer dreaming of the end of the earth.
 # 
 <p align="center">
   Last refresh: 
-  <b>2021-08-19T14:52:15Z</b>
+  <b>2021-08-19T14:56:24Z</b>
 </p>
