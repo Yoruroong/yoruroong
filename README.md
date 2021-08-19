@@ -1,27 +1,23 @@
 # Hi there 👋
-🤔 I am back-end developer dreaming of the end of the earth.
-##
 
+## 🤔 <samp>Yeonwoo Seo</samp>
+Semi Full-Stack developer dreaming of the end of the earth.
+##
 
 <img src="https://komarev.com/ghpvc/?username=yoruroong&label=Profile%20views&color=0e75b6&style=flat" alt="yoruroong" />
 
-🌱 Stack:
-- JS(include node.js)
-- express.js
-- React
+🌱 Stack(s):
+- node.js (3y)
+- express.js (2y)
+- React (1.5y)
 
-💨 I'm currently interested(studying) in
-```
-- Python
-- Flask
-- TensorFlow
-- PHP
-- React 
-- Javascript
-- Go
-```
+💨 Also, I am studying:
+- <samp>Python</samp></samp>
+- <samp>TensorFlow</samp>
+- <samp>PHP</samp>
+- <samp>Go</samp>
 
-📫 How to reach me: 
+📫 You can find me at:
 <ul>
   <li>
     <a href="https://discord.yoru.pe.kr">
@@ -31,18 +27,18 @@
   <li>etc: check at <a href="https://bio.yoru.pe.kr">here</a></li><br/>
 </ul>
 
-🕤 Fast Answers:
+🕤 Fast answers:
 ```
-[ ] Morning   [ ] PC       [x] Messenger     [x] Home     [ ] Sun    [ ] Vacation
-[ ] Evening   [x] Mobile   [ ] Discord       [ ] School   [x] Rain   [ ] Weekend
-[x] Midnight  [ ] Offline  [ ] Text Message  [ ] Outdoor  [ ] Cloud  [x] Weekday
+[ ] Morning   [ ] PC       [x] Instagram     [x] Home       [ ] Sun    [ ] Vacation
+[ ] Evening   [x] Mobile   [ ] Discord       [ ] School     [x] Rain   [ ] Weekend
+[x] Midnight  [ ] Offline  [ ] Text Message  [ ] Somewhere  [ ] Cloud  [x] Weekday
 ```
 
-🎨 Activities:
+🎨 Some github data:
 ```
 ⬆️ Pushed 1 commit to Yoruroong/yoruroong
 ⬆️ Pushed 1 commit to Yoruroong/yoruroong
-⬆️ Pushed 2 commits to Yoruroong/yoruroong
+⬆️ Pushed 1 commit to callistoteam/parkbot
 ```
 
 [![Yoru's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yoruroong)
@@ -51,5 +47,5 @@
 # 
 <p align="center">
   Last refresh: 
-  <b>2021-08-01T05:09:29Z</b>
+  <b>2021-08-19T14:52:15Z</b>
 </p>
