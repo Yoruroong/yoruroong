@@ -1,8 +1,5 @@
-# Hi there 👋
-
-## 🤔 <samp>Yeonwoo Seo</samp>
+# 👋 <samp>Yeonwoo Seo</samp>
 Semi Full-Stack developer dreaming of the end of the earth.
-##
 
 <img src="https://komarev.com/ghpvc/?username=yoruroong&label=Profile%20views&color=0e75b6&style=flat" alt="yoruroong" />
 
