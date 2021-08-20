@@ -33,9 +33,9 @@ Semi Full-Stack developer dreaming of the end of the earth.
 
 🎨 Some github data:
 ```
-⬆️ Pushed 1 commit to Yoruroong/yoruroong
-⬆️ Pushed 1 commit to Yoruroong/yoruroong
-⬆️ Pushed 1 commit to Yoruroong/yoruroong
+❗️ Opened issue #129 in callistoteam/parkbot
+💪 Opened PR #7 in wonderlanded/k-emails
+⬆️ Pushed 1 commit to Yoruroong/k-emails
 ```
 
 [![Yoru's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yoruroong)
@@ -44,5 +44,5 @@ Semi Full-Stack developer dreaming of the end of the earth.
 # 
 <p align="center">
   Last refresh: 
-  <b>2021-08-19T14:58:09Z</b>
+  <b>2021-08-20T05:12:30Z</b>
 </p>
