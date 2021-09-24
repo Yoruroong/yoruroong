@@ -33,9 +33,9 @@ Semi Full-Stack student developer
 
 🎨 Some github data:
 ```
+⬆️ Pushed 1 commit to parkbotrd/tos-and-privacy
+⬆️ Pushed 1 commit to parkbotrd/tos-and-privacy
 ⬆️ Pushed 1 commit to Yoruroong/yoruroong
-❗️ Opened issue #129 in callistoteam/parkbot
-💪 Opened PR #7 in wonderlanded/k-emails
 ```
 
 [![Yoru's github stats](https://github-readme-stats.vercel.app/api?username=Yoruroong&show_icons=true&hide_border=true&count_private=true)](https://github.com/Yoruroong)
@@ -44,5 +44,5 @@ Semi Full-Stack student developer
 # 
 <p align="center">
   Last refresh: 
-  <b>2021-09-23T15:20:15Z</b>
+  <b>2021-09-24T05:11:50Z</b>
 </p>
