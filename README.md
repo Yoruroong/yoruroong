@@ -1,13 +1,17 @@
 # 👋 Hello
 
-📫 You can find me at:
+## 😀 About Me
+- Yeonwoo Seo (he/him)
+- ISFJ, INFJ
+
+## 📫 Contacts
 <ul>
   <li>
     "yo" + 'ru'+'@'+'outlook kr'.split(" ").join('.')
   </li>
 </ul>
 
-🕤 Fast answers:
+## 🕤 Fast answers
 ```
 [ ] Morning   [ ] PC       [ ] Instagram     [x] Home       [ ] Sun    [ ] Vacation
 [ ] Evening   [x] Mobile   [ ] Discord       [ ] School     [x] Rain   [ ] Weekend
@@ -17,5 +21,5 @@
 # 
 <p align="center">
   Last refresh: 
-  <b>2021-10-13T05:12:26Z</b>
+  <b>2021-10-13T16:30:27Z</b>
 </p>
