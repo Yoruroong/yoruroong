@@ -2,7 +2,7 @@
 
 ## 😀 About Me
 - Yeonwoo Seo (he/him)
-- ISFJ
+- ISFJ(ISTJ)
 - <a href="https://iam.yoru.pe.kr">iam.yoru</a>
 
 ## 📫 Contacts
@@ -22,5 +22,5 @@
 # 
 <p align="center">
   Last refresh: 
-  <b>2021-12-03T05:13:07Z</b>
+  <b>2021-12-03T14:11:12Z</b>
 </p>
