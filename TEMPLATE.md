@@ -4,6 +4,7 @@
 - Yeonwoo Seo (he/him)
 - ISFJ(ISTJ)
 - <a href="https://iam.yoru.pe.kr">iam.yoru</a>
+- "아이와 어른 사이, 거의 중간, 중간"
 
 ## 📫 Contacts
 <ul>
