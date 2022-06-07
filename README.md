@@ -3,7 +3,7 @@
 ## 😀 About Me
 - Yeonwoo Seo (he/him)
 - ISFJ -> ISTJ -> ISFJ
-- <a href="https://iam.yoru.pe.kr">iam.yoru</a>
+- <a href="https://iam.yeonw.me">iam.yoru</a>
 - "아이와 어른 사이, 거의 중간, 중간"
 
 ## 📫 Contacts
@@ -23,5 +23,5 @@
 # 
 <p align="center">
   Last refresh: 
-  <b>2022-06-07T05:13:25Z</b>
+  <b>2022-06-07T16:32:34Z</b>
 </p>
