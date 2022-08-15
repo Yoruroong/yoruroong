@@ -16,7 +16,7 @@
 ## 🕤 Fast answers
 ```
 [x] Morning   [x] PC       [x] Instagram     [x] Home       [x] Sun    [x] Vacation  [x] 내가 어디에 있든
-[ ] Evening   [ ] Mobile   [x] Discord       [ ] School     [x] Rain   [x] Weekend   [x] 아무때나
+[x] Evening   [x] Mobile   [x] Discord       [ ] School     [x] Rain   [x] Weekend   [x] 아무때나
 [x] Midnight  [x] Offline  [x] Text Message  [x] Somewhere  [x] Cloud  [x] Weekday   [x] 말만 걸면
 ```
 
