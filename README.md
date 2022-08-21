@@ -11,6 +11,9 @@
   <li>
     "yo" + 'ru'+'@'+'outlook kr'.split(" ").join('.') // run in javascript
   </li>
+  <li>
+    <a href="http://discord.yeonw.me/">Discord</a>
+  </li>
 </ul>
 
 ## 🕤 Fast answers
@@ -23,5 +26,5 @@
 # 
 <p align="center">
   Last refresh: 
-  <b>2022-08-21T05:17:26Z</b>
+  <b>2022-08-21T10:17:08Z</b>
 </p>
