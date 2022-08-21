@@ -11,6 +11,9 @@
   <li>
     "yo" + 'ru'+'@'+'outlook kr'.split(" ").join('.') // run in javascript
   </li>
+  <li>
+    <a href="http://discord.yeonw.me/">Discord</a>
+  </li>
 </ul>
 
 ## 🕤 Fast answers
