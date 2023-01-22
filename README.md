@@ -18,13 +18,13 @@
 
 ## 🕤 Fast answers
 ```
-[x] Morning   [x] PC       [x] Instagram     [x] Home       [x] Sun    [x] Vacation  [x] 내가 어디에 있든
-[x] Evening   [x] Mobile   [x] Discord       [ ] School     [x] Rain   [x] Weekend   [x] 아무때나
+[ ] Morning   [x] PC       [x] Instagram     [x] Home       [x] Sun    [x] Vacation  [x] 내가 어디에 있든
+[ ] Evening   [x] Mobile   [x] Discord       [ ] School     [x] Rain   [x] Weekend   [x] 아무때나
 [x] Midnight  [x] Offline  [x] Text Message  [x] Somewhere  [x] Cloud  [x] Weekday   [x] 말만 걸면
 ```
 
 # 
 <p align="center">
   Last refresh: 
-  <b>2023-01-22T05:11:58Z</b>
+  <b>2023-01-22T15:10:32Z</b>
 </p>
