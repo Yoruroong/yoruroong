@@ -23,6 +23,11 @@
 [x] Midnight  [x] Offline  [x] Text Message  [x] Somewhere  [x] Cloud  [x] Weekday   [x] 말만 걸면
 ```
 
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoruroong&count_private=true&show_icons=true&theme=vue" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoruroong&layout=compact&theme=vue&count_private=true" />
+</div>
+
 # 
 <p align="center">
   Last refresh: 
